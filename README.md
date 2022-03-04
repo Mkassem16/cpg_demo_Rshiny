@@ -1,4 +1,4 @@
-# Clinical practice guideline dashboards
+# Clinical Practice guidelines dashboards
 
 + Sample Rshiny dashboards created in 2019.
 + The full project consisted of 50+ dashboards, written fully in R.
