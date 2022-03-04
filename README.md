@@ -5,4 +5,4 @@
 + Data pipline written in python, querying live data from EMR. 
 
 
-![Alt Text](Animation2.gif)
+![Alt Text](Animation7.gif)
